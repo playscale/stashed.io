@@ -1,6 +1,8 @@
-# Stashed
+# Stashed community support repository
 
-A fast compiler cache for Microsoft Visual Studio.
+Stashed is a fast compiler cache for Microsoft Visual Studio.
+
+This repository is used to track issues and link new releases of Stashed.
 
 Visit us at https://stashed.io
 
