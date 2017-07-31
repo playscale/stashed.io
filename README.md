@@ -8,6 +8,10 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## Upcoming
+
+- Automatic proxy detection
+
 ## 1.0.0 (2017-07-31)
 
 - Initial release
