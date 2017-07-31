@@ -4,6 +4,8 @@ A fast compiler cache for Microsoft Visual Studio.
 
 Visit us at https://stashed.io
 
-## Releases
+# Changelog
 
-* Coming soon!
+## 1.0.0 (2017-07-31)
+
+- Initial release
