@@ -11,6 +11,7 @@ Visit us at https://stashed.io
 ## Upcoming
 
 - Automatic proxy detection
+- Fix PCH name detection for Visual Studio 2012 and 2013
 
 ## 1.0.0 (2017-07-31)
 
