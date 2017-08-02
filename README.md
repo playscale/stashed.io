@@ -8,6 +8,11 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## 1.0.2 (2017-08-02)
+
+- Fix signing up behind a proxy
+- Add release notes on About page
+
 ## 1.0.1 (2017-08-01)
 
 - Automatic proxy detection
