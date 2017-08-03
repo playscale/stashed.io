@@ -8,6 +8,11 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## Upcoming
+
+- Fix monospace font on Internet Explorer
+
+
 ## 1.0.2 (2017-08-02)
 
 - Fix signing up behind a proxy
