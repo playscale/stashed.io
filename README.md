@@ -10,8 +10,8 @@ Visit us at https://stashed.io
 
 ## Upcoming
 
+- Throttle maximum number of original cl.exe to keep VisualStudio responsive
 - Fix monospace font on Internet Explorer
-
 
 ## 1.0.2 (2017-08-02)
 
