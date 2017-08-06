@@ -8,7 +8,7 @@ Visit us at https://stashed.io
 
 # Changelog
 
-## Upcoming
+## 1.0.3 (2017-08-06)
 
 - Throttle maximum number of original cl.exe to keep VisualStudio responsive
 - Provide x86 and x64 versions of cl.exe wrapper
