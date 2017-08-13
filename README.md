@@ -8,6 +8,12 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## Upcoming
+
+- Log file rotation and download buttons
+- Fix log date display in dashboard
+- Don't buffer writing to Visual Studio Output window
+
 ## 1.0.3 (2017-08-06)
 
 - Throttle maximum number of original cl.exe to keep VisualStudio responsive
