@@ -11,8 +11,9 @@ Visit us at https://stashed.io
 ## Upcoming
 
 - Log file rotation and download buttons
-- Fix log date display in dashboard
 - Don't buffer writing to Visual Studio Output window
+- Fix log date display in dashboard
+- Fix Visual Studio 2017 Enterprise detection
 
 ## 1.0.3 (2017-08-06)
 
