@@ -14,6 +14,8 @@ Visit us at https://stashed.io
 - Don't buffer writing to Visual Studio Output window
 - Fix log date display in dashboard
 - Fix Visual Studio 2017 Enterprise detection
+- Support passing `.obj` files to `cl.exe`
+- Better cache folder partitions
 
 ## 1.0.3 (2017-08-06)
 
