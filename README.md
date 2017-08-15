@@ -15,6 +15,7 @@ Visit us at https://stashed.io
 - Fix log date display in dashboard
 - Fix Visual Studio 2017 Enterprise detection
 - Support passing `.obj` files to `cl.exe`
+- Support `/E` and `/EP`
 - Better cache folder partitions
 
 ## 1.0.3 (2017-08-06)
