@@ -16,6 +16,7 @@ Visit us at https://stashed.io
 - Fix Visual Studio 2017 Enterprise detection
 - Support passing `.obj` files to `cl.exe`
 - Support `/E` and `/EP`
+- Experimental support for `/Zi`
 - Better cache folder partitions
 
 ## 1.0.3 (2017-08-06)
