@@ -10,13 +10,16 @@ Visit us at https://stashed.io
 
 ## Upcoming
 
+- Experimental support for `/Zi`
+
+## 1.0.4 (2017-08-16)
+
 - Log file rotation and download buttons
 - Don't buffer writing to Visual Studio Output window
 - Fix log date display in dashboard
 - Fix Visual Studio 2017 Enterprise detection
 - Support passing `.obj` files to `cl.exe`
 - Support `/E` and `/EP`
-- Experimental support for `/Zi`
 - Better cache folder partitions
 
 ## 1.0.3 (2017-08-06)
