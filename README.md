@@ -11,6 +11,7 @@ Visit us at https://stashed.io
 ## Upcoming
 
 - Experimental support for `/Zi`
+- Drop support for VS 2012 and 2013
 
 ## 1.0.4 (2017-08-16)
 
