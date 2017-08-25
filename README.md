@@ -8,9 +8,9 @@ Visit us at https://stashed.io
 
 # Changelog
 
-## Upcoming
+## 1.0.5 (2017-08-25)
 
-- Experimental support for `/Zi`
+- Support PDB files (`/Zi`)
 - Drop support for VS 2012 and 2013
 
 ## 1.0.4 (2017-08-16)
