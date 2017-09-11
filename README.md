@@ -8,6 +8,10 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## 1.0.6 (2017-09-11)
+
+- Support Incredibuild
+
 ## 1.0.5 (2017-08-25)
 
 - Support PDB files (`/Zi`)
