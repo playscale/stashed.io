@@ -8,6 +8,10 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## 1.0.7 (2017-09-14)
+
+- Support FastBuild
+
 ## 1.0.6 (2017-09-11)
 
 - Support Incredibuild
