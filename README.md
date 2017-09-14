@@ -8,7 +8,11 @@ Visit us at https://stashed.io
 
 # Changelog
 
-## 1.0.7 (2017-09-14)
+## 1.0.8 (2017-09-14)
+
+- Correctly handle the unsupported use of mixed PDB's and precompiled headers
+
+## 1.0.7 (2017-09-13)
 
 - Support FastBuild
 
