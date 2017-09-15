@@ -8,6 +8,10 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## 1.1.0 (2017-09-15)
+- Warn when acceleration is unavailable due to license or service not running
+- Go to the license page right after installation to get the free trial started
+
 ## 1.0.9 (2017-09-15)
 
 - Explicit license feedback
