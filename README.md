@@ -8,6 +8,11 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## 1.0.9 (2017-09-15)
+
+- Explicit license feedback
+- Fix typo (thanks Derek)
+
 ## 1.0.8 (2017-09-14)
 
 - Correctly handle the unsupported use of mixed PDB's and precompiled headers
