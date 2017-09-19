@@ -1,5 +1,9 @@
 # Stashed community support repository
 
+[![Join the chat at https://gitter.im/playscale/stashed.io](https://badges.gitter.im/playscale/stashed.io.svg)](https://gitter.im/playscale/stashed.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/stashed-io/Lobby](https://badges.gitter.im/stashed-io/Lobby.svg)](https://gitter.im/stashed-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Stashed is a fast compiler cache for Microsoft Visual Studio.
 
 This repository is used to track issues and link new releases of Stashed.
