@@ -10,7 +10,14 @@ Visit us at https://stashed.io
 
 # Changelog
 
+## Upcoming
+
+- Clear log counters when viewing logs
+- Better cache state description
+- Fix "Note: including" showing up in large projects outputs
+
 ## 1.1.0 (2017-09-15)
+
 - Warn when acceleration is unavailable due to license or service not running
 - Go to the license page right after installation to get the free trial started
 
