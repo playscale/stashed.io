@@ -10,11 +10,12 @@ Visit us at https://stashed.io
 
 # Changelog
 
-## Upcoming
+## 1.1.1 (2017-09-21)
 
 - Clear log counters when viewing logs
 - Better cache state description
 - Fix "Note: including" showing up in large projects outputs
+- Fix PDB handling
 
 ## 1.1.0 (2017-09-15)
 
