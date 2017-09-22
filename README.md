@@ -10,6 +10,10 @@ Visit us at https://stashed.io
 
 ## Changelog
 
+### 1.1.2 (2017-09-22)
+
+- Fix download link not always up-to-date
+
 ### 1.1.1 (2017-09-21)
 
 - Clear log counters when viewing logs
