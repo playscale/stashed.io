@@ -10,6 +10,10 @@ Visit us at https://stashed.io
 
 ## Changelog
 
+### 1.1.3 (2017-09-25)
+
+- Use vswhere to detect Visual Studio 2017
+
 ### 1.1.2 (2017-09-22)
 
 - Fix download link not always up-to-date
