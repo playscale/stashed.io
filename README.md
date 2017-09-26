@@ -10,6 +10,10 @@ Visit us at https://stashed.io
 
 ## Changelog
 
+### 1.1.4 (2017-09-26)
+
+- Fix performance issues
+
 ### 1.1.3 (2017-09-25)
 
 - Use vswhere to detect Visual Studio 2017
