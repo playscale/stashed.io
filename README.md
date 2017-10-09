@@ -10,6 +10,12 @@ Visit us at https://stashed.io
 
 ## Changelog
 
+### 1.2.0 (2017-10-09)
+
+- New option to completely disable writes to a drive
+- New systray application
+- Fix rebuild all triggered after compiling a single file
+
 ### 1.1.4 (2017-09-26)
 
 - Fix performance issues
