@@ -10,6 +10,11 @@ Visit us at https://stashed.io
 
 ## Changelog
 
+### Upcoming
+
+- Fix cache limit preview display
+- Nicer bytes display
+
 ### 1.2.0 (2017-10-09)
 
 - New option to completely disable writes to a drive
