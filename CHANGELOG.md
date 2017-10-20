@@ -1,5 +1,10 @@
 ## Changelog
 
+### 1.2.2 (2017-10-20)
+
+- License now shows as active when finishing trial with an active card on file.
+- Links to documentation in Stats and About page
+
 ### 1.2.1 (2017-10-09)
 
 - Fix cache limit preview display
