@@ -1,6 +1,6 @@
 ## Changelog
 
-### Upcoming
+### 1.2.4 (2017-10-31)
 
 - Fix missing wrappers for VS2012 / VS2013 64bit compilers
 - Detect Visual Studio Build Tools
