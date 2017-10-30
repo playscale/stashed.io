@@ -1,5 +1,10 @@
 ## Changelog
 
+### Upcoming
+
+- Fix missing wrappers for VS2012 / VS2013 64bit compilers
+- Detect Visual Studio Build Tools
+
 ### 1.2.3 (2017-10-30)
 
 - Fix compiler version detection when output is localized
