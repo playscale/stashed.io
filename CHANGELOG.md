@@ -1,8 +1,13 @@
 ## Changelog
 
+### 1.2.3 (2017-10-30)
+
+- Fix compiler version detection when output is localized
+- Left click on systray to open the dashboard
+
 ### 1.2.2 (2017-10-20)
 
-- License now shows as active when finishing trial with an active card on file.
+- License now shows as active when finishing trial with an active card on file
 - Links to documentation in Stats and About page
 
 ### 1.2.1 (2017-10-09)
