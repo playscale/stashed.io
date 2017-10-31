@@ -1,5 +1,9 @@
 ## Changelog
 
+### 1.2.5 (2017-10-31)
+
+- Do not consider empty folders in Visual Studio installs as broken
+
 ### 1.2.4 (2017-10-31)
 
 - Fix missing wrappers for VS2012 / VS2013 64bit compilers
