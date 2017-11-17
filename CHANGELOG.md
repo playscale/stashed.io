@@ -1,5 +1,9 @@
 ## Changelog
 
+### Upcoming
+
+- Fix Visual Studio detection when running in a Docker container
+
 ### 1.2.5 (2017-10-31)
 
 - Do not consider empty folders in Visual Studio installs as broken
