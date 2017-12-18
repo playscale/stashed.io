@@ -4,6 +4,10 @@
 
 - Fix Visual Studio detection when running in a Docker container
 
+### 1.2.6 (2017-12-18)
+
+- Fix handling of deprecated -o and -nologo- options, which some configure scripts use to get compiler info and behavior.
+
 ### 1.2.5 (2017-10-31)
 
 - Do not consider empty folders in Visual Studio installs as broken
