@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.4.0 (2018-01-18)
+
+* New Distributed Stash
+* Zero-configuration networking
+* Network status in the dashboard
+
 ### 1.3.2 (2018-01-08)
 
 * Fix /openmp incorrectly flagged as unsupported
