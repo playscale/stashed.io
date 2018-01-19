@@ -1,5 +1,9 @@
 ## Changelog
 
+### 1.4.1 (2018-01-19)
+
+* Support IDL files
+
 ### 1.4.0 (2018-01-18)
 
 * New Distributed Stash
