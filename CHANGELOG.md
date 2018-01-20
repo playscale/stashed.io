@@ -1,5 +1,10 @@
 ## Changelog
 
+### 1.4.2 (2018-01-20)
+
+* Detect VS2015 Build Tools
+* Limit concurrent peers
+
 ### 1.4.1 (2018-01-19)
 
 * Support IDL files
