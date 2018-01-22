@@ -1,5 +1,9 @@
 ## Changelog
 
+### 1.4.3 (2018-01-22)
+
+* Fix certificate for Firefox 
+
 ### 1.4.2 (2018-01-20)
 
 * Detect VS2015 Build Tools
