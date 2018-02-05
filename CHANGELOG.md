@@ -1,8 +1,13 @@
 ## Changelog
 
+### 1.4.4 (2018-02-05)
+
+* Fix Incredibuild with multiple network interfaces ([#16](https://github.com/playscale/stashed.io/issues/16))
+* Fix dashboard bookmark icon with Edge ([#15](https://github.com/playscale/stashed.io/issues/15))
+
 ### 1.4.3 (2018-01-22)
 
-* Fix certificate for Firefox 
+* Fix certificate for [Firefox](https://github.com/playscale/stashed.io/wiki/Firefox)
 
 ### 1.4.2 (2018-01-20)
 
@@ -15,7 +20,7 @@
 
 ### 1.4.0 (2018-01-18)
 
-* New Distributed Stash
+* [New Distributed Stash](https://github.com/playscale/stashed.io/wiki/Distributed-Stash)
 * Zero-configuration networking
 * Network status in the dashboard
 
