@@ -3,7 +3,7 @@
 ### 1.4.5 (2018-02-06)
 
 * Fix wrong case when fetching back from the cache ([#17](https://github.com/playscale/stashed.io/issues/17))
-* Fix command line rewrite (replace `/Fo:` by `/Fo`)
+* Fix for some use cases where /Fo:<output> flag parsing resulted in malformed intermediate file names resulting in C1083 errors
 
 ### 1.4.4 (2018-02-05)
 
