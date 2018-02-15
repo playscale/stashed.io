@@ -1,5 +1,11 @@
 ## Changelog
 
+### Upcoming
+
+* Support NTLM [Proxy](https://github.com/playscale/stashed.io/wiki/Proxy)
+* Better IP detection and update when network changes
+* Fix file changes not detected when timestamp and size have not changed
+
 ### 1.4.5 (2018-02-06)
 
 * Fix wrong case when fetching back from the cache ([#17](https://github.com/playscale/stashed.io/issues/17))
