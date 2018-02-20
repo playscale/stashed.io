@@ -1,6 +1,6 @@
 ## Changelog
 
-### Upcoming
+### 1.4.6 (2018-02-20)
 
 * Support NTLM [Proxy](https://github.com/playscale/stashed.io/wiki/Proxy)
 * Better IP detection and update when network changes
