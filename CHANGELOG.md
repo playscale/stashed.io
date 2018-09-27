@@ -1,8 +1,13 @@
 ## Changelog
 
+### 1.4.8 (2018-09-20)
+
+-   Added [REST control API](https://github.com/playscale/stashed.io/wiki/REST-Cache-Control) to query, disable and set cache limits
+-   Fix for [Issue #22 - Visual Studio 2017 not detected, even though it is installed](https://github.com/playscale/stashed.io/issues/22)
+
 ### 1.4.7 (2018-09-20)
 
--   Added REST control API to enable and disable Stashed front-ends (most requested for build systems)
+-   Added [REST control API](https://github.com/playscale/stashed.io/wiki/REST-Front-End-Control) to enable and disable Stashed front-ends (most requested for build systems)
 -   Update all RPCs for distributed Stashed
 -   Save stats between service restarts
 -   Fix potential memory leak in logging
